@@ -172,9 +172,8 @@ flex-wrap: wrap;
  margin-right: 1rem;
 
 }
-.box-content a{
+.box a{
    color: #007185; 
    text-decoration: none;
-   position: absolute;
-   bottom: -200px;
 }
+
