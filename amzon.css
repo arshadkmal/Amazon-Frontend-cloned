@@ -204,6 +204,7 @@ text-decoration: none;
 .logo{
     width: 100px;
     background-image: url(amazon_logo.png);
+    cursor: pointer;
 }
 .foot-info2{
     height: 68px;
@@ -226,6 +227,7 @@ button{
     width : 133px;
     height: 33px;
     border : 1px solid rgba(255, 255, 255, 0.3);
+    cursor: pointer;
 }
 .panel-info{
     display: flex;
@@ -245,4 +247,8 @@ button{
 .copyright{
     display: flex;
     justify-content: center;
+}
+.foot-panel a{
+    text-decoration: none;
+    color: white;
 }
